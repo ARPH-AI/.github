@@ -8,7 +8,7 @@ A partir del fin del financiamiento original, ARPHAI se constituyó como un ámb
 
 Actualmente, la comunidad de práctica de ARPHAI participa de tres proyectos cuyo financiamiento fue gestionado por los propios equipos: dos vinculados al uso de IA para la Salud Sexual, Reproductiva y Materna;  y uno vinculado a la mejora de la infraestructura abierta de la comunidad de ARPHAI. Los dos primeros, son  financiados por el IECS con fondos del IDRC, en el marco de las convocatorias 2023 y 2024 del Centro de Inteligencia Artificial y Salud para América Latina y el Caribel (CLIAS). El tercero, es parte de los proyectos piloto de Open Infrastructure Fund (Fondo de Infraestructura Abierta) de IOI (Invest in Open Infrastructure).  
 
-## Proyectos activos abril 2025
+## Proyectos recientes
 
 | **Proyecto** | **Fuente de financiamiento** | **Objetivo** | **Equipo** |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
